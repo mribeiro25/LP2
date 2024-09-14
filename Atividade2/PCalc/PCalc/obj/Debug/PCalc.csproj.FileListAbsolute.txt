@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\PCalc\PCalc\bin\Debug\PCalc.exe.config
+C:\Users\Acer\source\repos\PCalc\PCalc\bin\Debug\PCalc.exe
+C:\Users\Acer\source\repos\PCalc\PCalc\bin\Debug\PCalc.pdb
+C:\Users\Acer\source\repos\PCalc\PCalc\obj\Debug\PCalc.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\PCalc\PCalc\obj\Debug\PCalc.Form1.resources
+C:\Users\Acer\source\repos\PCalc\PCalc\obj\Debug\PCalc.Properties.Resources.resources
+C:\Users\Acer\source\repos\PCalc\PCalc\obj\Debug\PCalc.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\PCalc\PCalc\obj\Debug\PCalc.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\PCalc\PCalc\obj\Debug\PCalc.exe
+C:\Users\Acer\source\repos\PCalc\PCalc\obj\Debug\PCalc.pdb
